@@ -409,4 +409,4 @@ Además, implementa un modo claro/oscuro con transiciones suaves, optimizando la
             cursor: none !important;
           }
         }
-      `}),b.jsxs(X2,{children:[b.jsx($c,{path:"/",element:b.jsxs(b.Fragment,{children:[b.jsx(fT,{..._4}),b.jsx(Iw,{}),b.jsx(ww,{}),b.jsx(Ny,{}),b.jsx(Ew,{}),b.jsx(d1,{}),b.jsx(l4,{}),b.jsx(D4,{}),b.jsx(N4,{}),b.jsx(R4,{}),b.jsx(z4,{})]})}),b.jsx($c,{path:"/project/:id",element:b.jsx(O4,{})})]})]})}Ib.createRoot(document.getElementById("root")).render(b.jsx(T.StrictMode,{children:b.jsxs(hS,{children:[b.jsx(ES,{}),b.jsx(V4,{})]})}));
+      `}),b.jsxs(X2,{children:[b.jsx($c,{path:"/",element:b.jsxs(b.Fragment,{children:[b.jsx(fT,{..._4}),b.jsx(Iw,{}),b.jsx(ww,{}),b.jsx(Ny,{}),b.jsx(Ew,{}),b.jsx(d1,{}),b.jsx(l4,{}),b.jsx(D4,{}),b.jsx(N4,{}),b.jsx(R4,{}),b.jsx(z4,{})]})}),b.jsx($c,{path:"/project/:id",element:b.jsx(O4,{})})]})]})}Ib.createRoot(document.getElementById("root")).render(b.jsx(T.StrictMode,{children:b.jsxs(hS,{basename:"/MiPortafolio",children:[b.jsx(ES,{}),b.jsx(V4,{})]})}));
