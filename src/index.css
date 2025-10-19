@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  /* 🩶 Base */
+  --color-bg-dark: #1e2133;
+  --color-bg-darker: #111321;
+
+  /* ✨ Acentos */
+  --color-accent: #a855f7;
+  --color-accent-light: #c084fc;
+  --color-accent-soft: #f472b6;
+  --color-accent-pink: #ec4899;
+  --color-accent-blue-2: #60a5fa;
+
+  /* 💬 Textos */
+  --color-text-main: #f8fafc;         /* casi blanco */
+  --color-text-secondary: #cbd5e1;    /* gris claro */
+  --color-text-muted: #94a3b8;        /* gris azulado */
+  --color-text-accent: #c084fc;       /* acento claro */
+  --color-text-highlight: #f472b6;    /* rosado para resaltar */
+
+  /* 💜 Bordes / Sombras */
+  --color-border-soft: rgba(168, 85, 247, 0.25);
+  --color-border-strong: rgba(168, 85, 247, 0.5);
+  --color-shadow-accent: rgba(168, 85, 247, 0.25);
+}
