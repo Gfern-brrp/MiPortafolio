@@ -1,0 +1,21 @@
+<!-- favicon-c.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="code badge icon">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#00E6D8"/>
+      <stop offset="1" stop-color="#D24CFF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- fondo oscuro suave (opcional, se puede quitar si prefieres transparente) -->
+  <rect width="64" height="64" fill="transparent"/>
+
+  <!-- círculo con borde gradiente -->
+  <circle cx="32" cy="32" r="22" fill="#0b1220"/>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="url(#g3)" stroke-width="3"/>
+
+  <!-- símbolos en blanco (más legibles) -->
+  <path d="M18 32 L26 24 L26 28 L22 32 L26 36 L26 40 Z" fill="#ffffff"/>
+  <rect x="30" y="18" width="4" height="28" rx="1" fill="#ffffff" transform="rotate(12 32 32)"/>
+  <path d="M46 32 L38 24 L38 28 L42 32 L38 36 L38 40 Z" fill="#ffffff"/>
+</svg>
